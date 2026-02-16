@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "broken",
+  "base_artist": "lovelytheband",
+  "createdAt": "2026-02-16T15:00:10.653345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Broken Wing",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/01_A_Broken_Wing_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Broken Wing",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/02_A_Broken_Wing_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better With A Broken Heart (feat. T.J. Osborne)",
+      "artist": "Jillian Jacqueline feat. TJ Osborne",
+      "has_synced": true,
+      "path": "select/03_Better_With_A_Broken_Heart_(feat._T.J._Osborne)_Jillian_Jacqueline_feat._TJ_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Better With A Broken Heart",
+      "artist": "Jillian Jacqueline",
+      "has_synced": true,
+      "path": "select/04_Better_With_A_Broken_Heart_Jillian_Jacqueline.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bless the Broken Road",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/05_Bless_the_Broken_Road_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bless The Broken Road - Remastered Version",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/06_Bless_The_Broken_Road_-_Remastered_Version_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Broken Boys",
+      "artist": "Nicole Rayy",
+      "has_synced": true,
+      "path": "select/07_Broken_Boys_Nicole_Rayy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Broken Families",
+      "artist": "Lola Kirke",
+      "has_synced": false,
+      "path": "select/08_Broken_Families_Lola_Kirke.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Broken Halos",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/09_Broken_Halos_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Broken Lady",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/10_Broken_Lady_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Broken Lady (Album Version)",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/11_Broken_Lady_(Album_Version)_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Broken Up",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/12_Broken_Up_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Die From A Broken Heart",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/13_Die_From_A_Broken_Heart_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "broken",
+      "artist": "lovelytheband",
+      "has_synced": false,
+      "path": "select/pl_01_broken_lovelytheband.txt"
+    }
+  ]
+}
